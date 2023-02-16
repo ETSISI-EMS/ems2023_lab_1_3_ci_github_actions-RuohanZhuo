@@ -1,5 +1,5 @@
 name: Build and test or Java Project
-on：[push]
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
